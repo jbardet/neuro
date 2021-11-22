@@ -1,1 +1,1 @@
-# neuro
+# Project in Sensorimotor Neuroprosthetics
